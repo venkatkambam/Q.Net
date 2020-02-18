@@ -1,0 +1,3 @@
+Temp Table
+Table variable
+CTE
